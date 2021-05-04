@@ -20,4 +20,5 @@
     * World background is set to black.
     * Emission renders a nearby hidden glowing cube.
     * Cube is used so low polygon count makes rendering easier.
+    * [Resulting video is on youtube](https://youtu.be/lZuGQnKSYs4)
     * Inspired by [DUCKY 3D](https://www.youtube.com/channel/UCuNhGhbemBkdflZ1FGJ0lUQ) on Youtube
